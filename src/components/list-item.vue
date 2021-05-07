@@ -1,13 +1,18 @@
-<!-- app -->
 <template>
-  <router-view></router-view>
+  <li>{{ item }}</li>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'App',
+  name: 'list-item',
+  props: {
+    item: {
+      type: Object,
+      required: true,
+    },
+  },
   setup() {
     return {};
   },
