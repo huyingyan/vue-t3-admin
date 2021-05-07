@@ -1,5 +1,5 @@
 <template>
-  <div class="home"><h1>Welcome to Ant-Admin1</h1></div>
+  <div class="home"><h1>Welcome to Ant-Admin</h1></div>
 </template>
 
 <script lang="ts">
@@ -15,7 +15,6 @@ export default defineComponent({
 <style lang="scss" scoped>
 .home {
   h1 {
-    position: absolute;
     left: 50%;
     top: 50%;
     transform: translata(-50%, -50%);
