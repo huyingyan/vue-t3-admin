@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <h1>Welcome to Ant-Admin</h1>
-    <p>修复bug</p>
   </div>
 </template>
 
