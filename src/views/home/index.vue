@@ -1,5 +1,7 @@
 <template>
-  <div class="home"><h1>Welcome to Ant-Admin</h1></div>
+  <div class="home">
+    <h1>Welcome to Ant-Admin</h1>
+  </div>
 </template>
 
 <script lang="ts">
