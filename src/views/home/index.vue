@@ -2,6 +2,8 @@
   <div class="home">
     <h1>Welcome to Ant-Admin</h1>
     <p>dev</p>
+    <p>修复bug</p>
+    <p>woeking</p>
   </div>
 </template>
 
