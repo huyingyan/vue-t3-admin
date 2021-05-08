@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h1>Welcome to Ant-Admin</h1>
+    <p>tag1</p>
   </div>
 </template>
 
